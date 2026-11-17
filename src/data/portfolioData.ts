@@ -60,8 +60,8 @@ export const stackGroups: StackGroup[] = [
 ];
 
 // Deploy qilganingdan keyin haqiqiy havolalarni shu yerga yoz:
-const UNISPHERE_URL = "https://unisphere-academy.vercel.app";
-const MARIS_URL = "https://maris-academy.pages.dev";
+const UNISPHERE_URL = "https://unisphera-academy.vercel.app/";
+const MARIS_URL = "https://maris-uz.vercel.app/";
 
 export const projects: Project[] = [
   {
